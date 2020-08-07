@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: Email :- samyak_study@hotmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I kan make p5.js Sketches!
+- ⚡ Fun fact: I can make p5.js Sketches!
