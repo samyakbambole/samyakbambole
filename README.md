@@ -5,7 +5,7 @@
 ### [Visit My Website!](https://samyakbambole.vercel.app)
 ### [View one of my Projects that I put the most effort on](https://blackboard.vercel.app)
 
-### My Twitter - @BamboleSamyak 
+### My Twitter - https://twitter.com/BamboleSamyak 
 ### GitHub - https://github.com/samyakbambole
 
 - 🔭 I’m currently working on [My Website](https://samyakbambole.vercel.app)
