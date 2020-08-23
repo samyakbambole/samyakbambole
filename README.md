@@ -1,6 +1,6 @@
 ### Hello! 👋😃
 
-### My name is Samyak and I am from India. I want to learn Web Development and make awsome websites. 
+### My name is Samyak and I am from India. I am a beginner to Web Development. 
 
 ### [Visit My Website!](https://samyakbambole.vercel.app)
 ### [View one of my Projects that I put the most effort on](https://blackboard.vercel.app)
