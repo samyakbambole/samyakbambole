@@ -2,6 +2,13 @@
 
 ### My name is Samyak and I am from India. I am a beginner to Web Development. 
 
+### Languages I know - 
+- [x] HTML (Basics)
+- [x] Javascript (Basics)
+     - p5.js
+     - node.js
+- [x] CSS (Basics)
+
 ### [Visit My Website!](https://samyakbambole.vercel.app)
 ### [View one of my Projects that I put the most effort on](https://blackboard.vercel.app)
 
@@ -16,7 +23,8 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can make p5.js Sketches!
 
-### Tools I use -
+## Tools I use -
+
 ## Source Management 
 - [x] [GitHub](https://github.com)
 - [x] [Git](https://git-scm.com/)
