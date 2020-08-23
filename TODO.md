@@ -5,7 +5,8 @@
 - [x] Projects 'one or 2'
 - [x] Social Media
 - [x] Email
-- [] Discord
+- [x] Discord Username
+- [x] Discord Server
 - [x] Pronouns
 - [x] Emoji stuff
 - [x] Tools I use

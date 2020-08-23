@@ -18,18 +18,24 @@
 
 ### Tools I use -
 ## Source Management 
-- [GitHub](https://github.com)
-- [Git](https://git-scm.com/)
+- [x] [GitHub](https://github.com)
+- [x] [Git](https://git-scm.com/)
 
 ## Source Code Editors
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Atom](https://atom.io/)
-- [Sublime Text](https://www.sublimetext.com/)
+- [x] [Visual Studio Code](https://code.visualstudio.com/)
+- [x] [Atom](https://atom.io/)
+- [x] [Sublime Text](https://www.sublimetext.com/)
 
 ## Web Browsers 
-- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
-- [Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGbsxN7aab4-yuFBxpRv7Lq-Dw8XuFzFkpJq7jOn-ZTbtJSeXKN0aYaAjwEEALw_wcB&gclsrc=aw.ds)
+- [x] [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+- [x] [Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGbsxN7aab4-yuFBxpRv7Lq-Dw8XuFzFkpJq7jOn-ZTbtJSeXKN0aYaAjwEEALw_wcB&gclsrc=aw.ds)
 
 ## Laptop Info 
-- [Windows 10 Latest](https://www.microsoft.com/en-in/windows/)
-- [External Keyboard Zebronics Zeb-K21](https://zebronics.com/collections/keyboard/products/zeb-k21)
+- [x] [Windows 10 Latest](https://www.microsoft.com/en-in/windows/)
+- [x] [External Keyboard Zebronics Zeb-K21](https://zebronics.com/collections/keyboard/products/zeb-k21)
+
+## Discord
+- [x] [Discord Server](https://discord.gg/PeJARgV)
+- [x] Accounts - 
+     - samyakbambole : samyakbambole#5046
+     - thirstyDeveloper : thirstyDeveloper#3988
