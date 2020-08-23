@@ -1,12 +1,13 @@
 # My Profile Todo. 
 
-[*] Intro
-[*] Website
-[*] Projects 'one or 2'
-[*] Social Media
-[*] Email
-[*] Pronouns
-[*] Emoji stuff
-[*] Tools I use
+[x] Intro
+[x] Website
+[x] Projects 'one or 2'
+[x] Social Media
+[x] Email
+[] Discord
+[x] Pronouns
+[x] Emoji stuff
+[x] Tools I use
 
 #### More stuf will be added soon. 
