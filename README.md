@@ -27,7 +27,8 @@
 - [Sublime Text](https://www.sublimetext.com/)
 
 ## Web Browsers 
-- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)-] [Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGbsxN7aab4-yuFBxpRv7Lq-Dw8XuFzFkpJq7jOn-ZTbtJSeXKN0aYaAjwEEALw_wcB&gclsrc=aw.ds)
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
+- [Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwp4j6BRCRARIsAGq4yMGbsxN7aab4-yuFBxpRv7Lq-Dw8XuFzFkpJq7jOn-ZTbtJSeXKN0aYaAjwEEALw_wcB&gclsrc=aw.ds)
 
 ## Laptop Info 
 - [Windows 10 Latest](https://www.microsoft.com/en-in/windows/)
