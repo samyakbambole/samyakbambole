@@ -25,9 +25,7 @@
 
 ## Stats Board! (by https://github.com/anuraghazra/github-readme-stats)
 
-[![samyakbambole's GitHub Stats! ](https://github-readme-stats.vercel.app/api?username=samyakbambole)](https://github.com/samyakbambole/p5.js-Blackboard)
-
-[![samyakbambole's website repository GitHub Stats! ](https://github-readme-stats.vercel.app/api?username=samyakbambole)](https://github.com/samyakbambole/my-website)
+[![samyakbambole's GitHub Stats!](https://github-readme-stats.vercel.app/api?username=samyakbambole)](https://github.com/samyakbambole/p5.js-Blackboard)
 
 ## Tools I use -
 
