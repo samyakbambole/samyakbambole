@@ -23,7 +23,8 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I can make p5.js Sketches!
 
-## Stats Board! (by https://github.com/anuraghazra/github-readme-stats)
+## Stats Board! 
+##### by https://github.com/anuraghazra/github-readme-stats
 
 [![samyakbambole's GitHub Stats!](https://github-readme-stats.vercel.app/api?username=samyakbambole)](https://github.com/samyakbambole/p5.js-Blackboard)
 
