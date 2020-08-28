@@ -10,6 +10,7 @@
 - [x] Pronouns
 - [x] Emoji stuff
 - [x] Tools I use
+- [ ] GitHub Stats by github.com/anuraghazra 
 - [ ] Currently Working on Discord Bots
 - [ ] Info about HandyHelperBot and TuneBot. 
 - [ ] I can make Discord Bots for free
