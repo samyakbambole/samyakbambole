@@ -27,6 +27,8 @@
 
 [![samyakbambole's GitHub Stats! ](https://github-readme-stats.vercel.app/api?username=samyakbambole)](https://github.com/samyakbambole/p5.js-Blackboard)
 
+[![samyakbambole's website repository GitHub Stats! ](https://github-readme-stats.vercel.app/api?username=samyakbambole)](https://github.com/samyakbambole/my-website)
+
 ## Tools I use -
 
 ## Source Management 
