@@ -17,7 +17,7 @@
 ### Contact me at - samyak_study@hotmail.com 
 ## I will try to reach to your email as soon as possible. 
 
-- 🔭 I’m currently working on [My Website](https://samyakbambole.vercel.app)
+- 🔭 I’m currently working on a Discord Bot. 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: Email :- samyak_study@hotmail.com
 - 😄 Pronouns: he/him/his
@@ -51,3 +51,14 @@
 - [x] Accounts - 
      - samyakbambole : samyakbambole#5046
      - thirstyDeveloper : thirstyDeveloper#3988
+
+## Discord stuff
+- [ ] I am Working on 2 Discord Bots Currently
+     - HandyHelperBot (Still Under Development)
+          - HandyHelperBot has lot of awesome Commands
+     - TuneBot (Being Built)
+          - A music Bot
+- [ ] I can make Discord Bots for you as per your Requirements. 
+- [ ] I can also make Discord Servers Which will include - 
+     - Roles
+     - Bots 

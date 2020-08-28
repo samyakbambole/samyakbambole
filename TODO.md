@@ -10,10 +10,10 @@
 - [x] Pronouns
 - [x] Emoji stuff
 - [x] Tools I use
-- [ ] GitHub Stats by github.com/anuraghazra 
-- [ ] Currently Working on Discord Bots
-- [ ] Info about HandyHelperBot and TuneBot. 
-- [ ] I can make Discord Bots for free
-- [ ] I can make Awesome Discord Servers for people who dont know how to nake. include other features. 
+- [x] GitHub Stats by github.com/anuraghazra 
+- [x] Currently Working on Discord Bots
+- [x] Info about HandyHelperBot and TuneBot. 
+- [x] I can make Discord Bots for free
+- [x] I can make Awesome Discord Servers for people who dont know how to nake. include other features. 
 
 #### More stuf will be added soon. 
