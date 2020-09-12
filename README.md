@@ -11,6 +11,7 @@
 
 ### [Visit My Website!](https://samyakbambole.vercel.app)
 ### [PC Setup](samyakbambole-setup.surge.sh)
+### [Code of Conduct](samyakbambole-coc.surge.sh)
 ### [View one of my Projects that I put the most effort on](https://blackboard.vercel.app)
 
 ### Twitter - https://twitter.com/BamboleSamyak 
