@@ -10,6 +10,7 @@
 - [x] CSS (Basics)
 
 ### [Visit My Website!](https://samyakbambole.vercel.app)
+### [PC Setup](samyakbambole-setup.surge.sh)
 ### [View one of my Projects that I put the most effort on](https://blackboard.vercel.app)
 
 ### Twitter - https://twitter.com/BamboleSamyak 
@@ -54,12 +55,12 @@
      - thirstyDeveloper : thirstyDeveloper#3988
 
 ## Discord stuff
-- [ ] I am Working on 2 Discord Bots Currently
+- [x] I am Working on 2 Discord Bots Currently
      - HandyHelperBot (Still Under Development)
           - HandyHelperBot has lot of awesome Commands
      - TuneBot (Being Built)
           - A music Bot
-- [ ] I can make Discord Bots for you as per your Requirements. 
-- [ ] I can also make Discord Servers Which will include - 
+- [x] I can make Discord Bots for you as per your Requirements. 
+- [x] I can also make Discord Servers Which will include - 
      - Roles
      - Bots 
