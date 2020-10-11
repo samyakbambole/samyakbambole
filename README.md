@@ -10,21 +10,28 @@
 - [x] CSS (Basics)
 
 ### [Visit My Website!](https://samyakbambole.vercel.app)
+
 ### [PC Setup](http://samyakbambole-setup.surge.sh)
+
 ### [Code of Conduct](http://samyakbambole-coc.surge.sh)
+
 ### [Color Picker Made by me](http://colorselector.surge.sh)
+
 ### [View one of my Projects that I put the most effort on](https://blackboard.vercel.app)
+
+### [twitch-live-chat-history](https://github.com/samyakbambole/twitch-live-chat-history)
 
 ### Twitter - https://twitter.com/BamboleSamyak 
 ### GitHub - https://github.com/samyakbambole
+### Instagram - https://www.instagram.com/samyakbambole/
 ### Contact me at - samyak_study@hotmail.com 
 ## I will try to reach to your email as soon as possible. 
 
-- 🔭 I’m currently working on a Discord Bot. 
+- 🔭 I’m currently working on a Project called twitch-live-chat-history. 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: Email :- samyak_study@hotmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I can make p5.js Sketches!
+- ⚡ Fun fact: I can make Discord Bots!
 
 ## Stats Board! 
 ##### by https://github.com/anuraghazra/github-readme-stats
