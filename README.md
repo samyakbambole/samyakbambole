@@ -2,6 +2,8 @@
 
 ### My name is Samyak and I am from India. I am a beginner to Web Development. 
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Languages I know - 
 - [x] HTML (Basics)
 - [x] Javascript (Basics)
